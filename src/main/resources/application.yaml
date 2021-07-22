@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+cfg:
+  key: ${SYSTEM_KEY:12345678}
